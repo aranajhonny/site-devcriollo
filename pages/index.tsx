@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <div>
           <p>
-            <code>jhonny site's</code>
+            <code>jhonny site</code>
           </p>
         </div>
       </main>
